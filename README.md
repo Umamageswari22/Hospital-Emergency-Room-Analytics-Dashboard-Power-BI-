@@ -117,31 +117,32 @@ The dashboard provides insights into patient flow, wait times, satisfaction leve
 - Supports improvement in patient satisfaction
 - Enables hospital management to optimize department resources
 - Reduces manual reporting through automated dashboards
-- 
+  
 
 ## 📁 Repository Structure
 
-📁 Hospital-ER-PowerBI-Project
- ├── 📊 Hospital_ER_Dashboard.pbix
- ├── 📁 Dataset
- │    └── Hospital_ER_Data.csv
- ├── 📸 Screenshots
- └── 📄 README.md
+- 📁 Hospital-ER-PowerBI-Project
+ - ├── 📊 Hospital_ER_Dashboard.pbix
+ - ├── 📁 Dataset
+-  │    └── Hospital_ER_Data.csv
+ - ├── 📸 Screenshots
+-  └── 📄 README.md
 
 
 ## 🚀 Conclusion
 
 - This project demonstrates how Power BI can be effectively used in healthcare analytics to transform raw data into meaningful insights, improve patient experience, and support operational efficiency in emergency departments.
--
--
--
+
+
+---------------------------------------------------------------******-----------------------------------------------------------------------
+
   ## 👨‍💻 Author
 *UMA MAGESWARI V*  
 Data Analytics & Business Intelligence Enthusiast  
 
-🔗 [GitHub Profile]:https://github.com/Umamageswari22
-💼 [LinkedIn Profile]: https://www.linkedin.com/in/uma-mageswari-v-28a796370
+- 🔗 [GitHub Profile]:https://github.com/Umamageswari22
+- 💼 [LinkedIn Profile]: https://www.linkedin.com/in/uma-mageswari-v-28a796370
 
 ---
 
-⭐ *If you like this project, give it a star on GitHub!*
+-⭐ *If you like this project, give it a star on GitHub!*
