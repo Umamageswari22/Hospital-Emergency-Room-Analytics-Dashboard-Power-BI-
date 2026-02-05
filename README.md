@@ -16,9 +16,7 @@ The dashboard provides insights into patient flow, wait times, satisfaction leve
 - Identify high-demand departments
 - Provide actionable insights for hospital management
 
-  ## Dataset Used
-  - <a href=""C:\Users\guhan\Downloads\healthcare provider project.pbix"
-
+  
 ## 📊 Dataset Description
 
 - Source: Synthetic hospital emergency room dataset
